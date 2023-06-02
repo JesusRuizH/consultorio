@@ -2,10 +2,5 @@
 
 -- FRAMEWORKS --
 
-npm i nodejs, 
-    nodemon, 
-    mariadb, 
-    dotenv, 
-    typescript --save-dev, 
-    axiom
+npm i nodejs, nodemon, mariadb, dotenv, typescript --save-dev, axiom, express
 
